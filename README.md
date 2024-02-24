@@ -32,3 +32,6 @@ listaProdutos.forEach((produto, index) => {
 ```
 * Cole no console e pressione enter
 * Uma lista dos produtos será exibida no console.log()
+
+# Imagens
+
