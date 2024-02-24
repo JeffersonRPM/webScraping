@@ -35,3 +35,8 @@ listaProdutos.forEach((produto, index) => {
 
 # Imagens
 
+<div>
+  <img alt="Imagem site" src="./img/img-site.png">
+  <img alt="Imagem console" src="./img/img-console.png">
+  <img alt="Imagem resultado do script" src="./img/img-resultado.png">
+</div>
